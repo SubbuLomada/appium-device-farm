@@ -3,4 +3,4 @@
 	url = https://github.com/AppiumTestDistribution/device-farm-pro.git
 [submodule "dashboard-frontend"]
 	path = dashboard-frontend
-	url = https://github.com/AppiumTestDistribution/appium-dashboard
+	url = https://github.com/AppiumTestDistribution/appium-dashboard.git
